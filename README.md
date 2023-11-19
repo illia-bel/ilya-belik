@@ -1,4 +1,4 @@
-# Hi, my name is Ilya 👋  
+# Hi, my name is Illia 👋  
 ## I am a JavaScript developer 👨‍💻
 
 
@@ -20,6 +20,7 @@
 ![GIT](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git&logoColor=e84f31) 
 ![NPM](https://img.shields.io/badge/NPM-cb3837?style=for-the-badge&logo=npm&logoColor=fff)
 ![Yarn](https://img.shields.io/badge/Yarn-2188b6?style=for-the-badge&logo=Yarn&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-8d79fe?style=for-the-badge&logo=Vite&logoColor=fdc327)
 ![Webpack](https://img.shields.io/badge/Webpack-8acef2?style=for-the-badge&logo=Webpack&logoColor=fff)
 ![GULP](https://img.shields.io/badge/GULP-e14748?style=for-the-badge&logo=gulp&logoColor=fff)
 
@@ -42,13 +43,10 @@
 
 ### 👨‍💼 Information about me:  
 
-* Age: 20
+* Age: 21
 * City: Ukraine, Kharkiv
 
 ---
 
-### 📱Contacts, social networks:
-
-* Phone: +(38)063-866-01-13
-* [Telegram](http://t.me/Ilya_belichenko) 
+### 📱Contacts:
 * [Linkedin](https://www.linkedin.com/in/ilya-belichenko/)
